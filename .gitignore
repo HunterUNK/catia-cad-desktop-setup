@@ -1,4 +1,0 @@
-.env
-yarn-error.log*
-npm-debug.log*
-build/
